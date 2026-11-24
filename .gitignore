@@ -56,3 +56,7 @@ Thumbs.db
 
 # Chroma Vector DB runtime persist directory
 ta2/database/chroma_db/
+
+.venv/
+__pycache__/
+traces.json
